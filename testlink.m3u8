@@ -7,4 +7,4 @@ https://tf1-hls-live-cdn1.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index_1
 
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="français",LANGUAGE="fra",DEFAULT=YES,AUTOSELECT=YES,URI="https://tf1-hls-live-cdn1.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index_124_0.m3u8"
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="VO",LANGUAGE="mul",DEFAULT=NO,AUTOSELECT=NO,URI="https://tf1-hls-live-cdn1.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index_105_0.m3u8"
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subtitles",NAME="français",DEFAULT=YES,AUTOSELECT=NO,FORCED=NO,LANGUAGE="fra",URI="https://tf1-hls-live-cdn1.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index_109_0.m3u8"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subtitles",NAME="VOST",DEFAULT=NO,AUTOSELECT=NO,FORCED=NO,LANGUAGE="fra",URI="https://tf1-hls-live-cdn1.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index_109_0.m3u8"
