@@ -7,7 +7,7 @@
 https://origin2.live.salto.fr/pool_u81ytesz/ftv2/saltohdb/hls_long_enc_ftv2/e0t7kg9/vMztcDc/index.m3u8
 
 
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac-lc-96000",NAME="French",LANGUAGE="fre",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",URI="NA/aHEUMcx/index.m3u8"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac-lc-96000",NAME="audio-qaa",LANGUAGE="qaa",AUTOSELECT=NO,DEFAULT=NO,CHANNELS="2",URI="NA/asQIJP1/index.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac-lc-96000",NAME="French",LANGUAGE="fre",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",URI="https://origin2.live.salto.fr/pool_u81ytesz/ftv2/saltohdb/hls_long_enc_ftv2/NA/aHEUMcx/index.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac-lc-96000",NAME="audio-qaa",LANGUAGE="qaa",AUTOSELECT=NO,DEFAULT=NO,CHANNELS="2",URI="https://origin2.live.salto.fr/pool_u81ytesz/ftv2/saltohdb/hls_long_enc_ftv2/NA/asQIJP1/index.m3u8"
 
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subgroup",NAME="French",LANGUAGE="fre",AUTOSELECT=NO,DEFAULT=YES,FORCED=YES,URI="NA/xWyyquu/index.m3u8"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subgroup",NAME="French",LANGUAGE="fre",AUTOSELECT=NO,DEFAULT=YES,FORCED=YES,URI="https://origin2.live.salto.fr/pool_u81ytesz/ftv2/saltohdb/hls_long_enc_ftv2/NA/xWyyquu/index.m3u8"
