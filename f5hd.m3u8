@@ -3,14 +3,13 @@
 ## Just In Time Delivered by Quortex Solution, version 2.13.1
 #EXT-X-INDEPENDENT-SEGMENTS
 
-#EXT-X-STREAM-INF:BANDWIDTH=3150000,RESOLUTION=1280x720,FRAME-RATE=25,CODECS="avc1.64001f,mp4a.40.2",AUDIO="aac-lc-96000",SUBTITLES="subgroup"
-https://origin2.live.salto.fr/pool_u81ytesz/ftv5/saltohda/hls_long_enc_ftv5/NA/vpnjbv4/index.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=4000000,RESOLUTION=1280x720,FRAME-RATE=25,CODECS="avc1.64001f,mp4a.40.2",AUDIO="aac-lc-96000",SUBTITLES="subgroup"
+https://origin2.live.salto.fr/pool_u81ytesz/ftv5/saltohda/hls_long_enc_ftv5/NA/vgedSiP/index.m3u8
 
 
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac-lc-96000",NAME="French",LANGUAGE="fre",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",URI="https://origin2.live.salto.fr/pool_u81ytesz/ftv5/saltohda/hls_long_enc_ftv5/NA/aHEUMcx/index.m3u8"
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac-lc-96000",NAME="audio-qaa",LANGUAGE="qaa",AUTOSELECT=NO,DEFAULT=NO,CHANNELS="2",URI="https://origin2.live.salto.fr/pool_u81ytesz/ftv5/saltohda/hls_long_enc_ftv5/NA/asQIJP1/index.m3u8"
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac-lc-96000",NAME="audio-qad",LANGUAGE="qad",CHARACTERISTICS="public.accessibility.describes-video",AUTOSELECT=NO,DEFAULT=NO,CHANNELS="2",URI="https://origin2.live.salto.fr/pool_u81ytesz/ftv5/saltohda/hls_long_enc_ftv5/NA/apwFzCP/index.m3u8"
-
 
 #EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subgroup",NAME="French (caption)",LANGUAGE="fre",CHARACTERISTICS="public.accessibility.transcribes-spoken-dialog,public.accessibility.describes-music-and-sound",AUTOSELECT=NO,DEFAULT=NO,FORCED=NO,URI="https://origin2.live.salto.fr/pool_u81ytesz/ftv5/saltohda/hls_long_enc_ftv5/NA/xRv6ioN/index.m3u8"
 #EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subgroup",NAME="French",LANGUAGE="fre",AUTOSELECT=NO,DEFAULT=NO,FORCED=NO,URI="https://origin2.live.salto.fr/pool_u81ytesz/ftv5/saltohda/hls_long_enc_ftv5/NA/xWyyquu/index.m3u8"
