@@ -4,7 +4,7 @@
 #EXT-X-INDEPENDENT-SEGMENTS
 
 #EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1280x720,FRAME-RATE=50,CODECS="avc1.64001f,mp4a.40.2",AUDIO="aac-lc-96000",SUBTITLES="subgroup"
-https://origin2.live.salto.fr/pool_u81ytesz/m6/saltohdb/hls_long_enc_m6/vmz7Qhs/index.m3u8
+https://origin2.live.salto.fr/pool_u81ytesz/m6/saltohdb/hls_long_enc_m6/NA/vmz7Qhs/index.m3u8
 
 
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac-lc-96000",NAME="French",LANGUAGE="fre",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",URI="https://origin2.live.salto.fr/pool_u81ytesz/m6/saltohdb/hls_long_enc_m6/NA/aHEUMcx/index.m3u8"
